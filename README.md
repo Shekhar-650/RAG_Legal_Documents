@@ -11,17 +11,7 @@ A Retrieval-Augmented Generation (RAG) system for legal document intelligence â€
 - [Overview](#overview)  
 - [Features](#features)  
 - [Architecture](#architecture)  
-- [Getting Started](#getting-started)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Ingesting Documents](#ingesting-documents)  
-- [Indexing & Embeddings](#indexing--embeddings)  
-- [Running the App](#running-the-app)  
-- [Evaluation](#evaluation)  
-- [Roadmap](#roadmap)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Acknowledgements](#acknowledgements)
+
 
 ---
 
